@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @spaghetti-toast
-- 👀 I’m interested in lots of stuff.
-- 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on not much.
-- 📫 How to reach me: lachlan@lachlans.world
+- 👋 Hi, I’m @spatoa
+- 👀 I try and do everything, but I have a personal interest in infosec.
+- 🌱 I’m currently learning how to properly develop with Rust.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me: lachlanburns1001@gmail.com
 
 <!---
 spaghetti-toast/spaghetti-toast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
